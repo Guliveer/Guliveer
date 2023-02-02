@@ -1,13 +1,9 @@
-<h1>
-  Hi 👋<br/>
-  I'm Oliwer!
-</h1>
+# Hi 👋<br/>I'm Oliwer!
 
-<div align="left">
-<img alt="Birthday" src="https://img.shields.io/badge/🎂-V 2003-red?style=for-the-badge">
-<img alt="Home" src="https://img.shields.io/badge/🏠-Zielona Góra-brightgreen?style=for-the-badge">
-<img alt="School" src="https://img.shields.io/badge/🏫-CKZiU 2 'Elektronik'-038cfc?style=for-the-badge">
-</div>
+![Birthday](https://img.shields.io/badge/🎂-V%202003-red?style=for-the-badge "Birthday")
+![Home](https://img.shields.io/badge/🏠-Zielona%20Góra-45ad2d?style=for-the-badge "Home")
+[![School](https://img.shields.io/badge/🏫-CKZiU%202%20'Elektronik'-814ad4?style=for-the-badge "School")](https://zseis.zgora.pl)
+[![More links](https://img.shields.io/badge/🌐-See%20more-038cfc?style=for-the-badge "More links")](https://guliveer.github.io/links)
 
 
 <h2>📊 Compact stats</h2>
