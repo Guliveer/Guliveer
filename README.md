@@ -2,7 +2,7 @@
 
 ![Birthday](https://img.shields.io/badge/🎂-V%202003-red?style=for-the-badge "Birthday")
 ![Home](https://img.shields.io/badge/🏠-Zielona%20Góra-45ad2d?style=for-the-badge "Home")
-[![School](https://img.shields.io/badge/🏫-CKZiU%202%20'Elektronik'-814ad4?style=for-the-badge "School")](https://zseis.zgora.pl)
+[![Job](https://img.shields.io/badge/🏢-Ekoenergetyka-814ad4?style=for-the-badge "Job")](https://ekoenergetyka.com.pl/)
 [![More links](https://img.shields.io/badge/🌐-See%20more-038cfc?style=for-the-badge "More links")](https://guliveer.github.io/links)
 
 
