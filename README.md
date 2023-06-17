@@ -23,8 +23,8 @@
 
 ## 🖥️ Software I often work with
 
-[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-Adobe-gray?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF)](https://www.adobe.com/products/photoshop.html)
-[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-Adobe-gray?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=FF9A00)](https://www.adobe.com/products/illustrator.html)
-[![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-Adobe-gray?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white&labelColor=9999FF)](https://www.adobe.com/products/premiere.html)
-[![Adobe After Effects](https://img.shields.io/badge/Aftere%20Effects-Adobe-gray?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=9999FF)](https://www.adobe.com/products/aftereffects.html)
-[![Microsoft Excel](https://img.shields.io/badge/Excel-Microsoft-gray?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-Adobe-gray?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF)](https://adobe.com/products/photoshop.html)
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-Adobe-gray?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=FF9A00)](https://adobe.com/products/illustrator.html)
+[![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-Adobe-gray?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white&labelColor=9999FF)](https://adobe.com/products/premiere.html)
+[![Adobe After Effects](https://img.shields.io/badge/Aftere%20Effects-Adobe-gray?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=9999FF)](https://adobe.com/products/aftereffects.html)
+[![Microsoft Excel](https://img.shields.io/badge/Excel-Microsoft-gray?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346)](https://microsoft.com/microsoft-365/excel)
