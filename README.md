@@ -1,8 +1,8 @@
 # Hi 👋<br/>I'm Oliwer!
 
-[![Birthday](https://img.shields.io/badge/🎂-V%202003-red?style=for-the-badge "Birthday")](https://guliveer.github.io/links)
-[![Home](https://img.shields.io/badge/🏠-Zielona%20Góra-45ad2d?style=for-the-badge "Home")](https://guliveer.github.io/links)
-[![Job](https://img.shields.io/badge/🏢-Ekoenergetyka-814ad4?style=for-the-badge "Job")](https://ekoenergetyka.com.pl/)
+[![Birthday](https://img.shields.io/badge/🎂-V%202003-red?style=for-the-badge "Birthday")](https://github.com/Guliveer)
+[![Home](https://img.shields.io/badge/🏠-Zielona%20Góra-45ad2d?style=for-the-badge "Home")](https://github.com/Guliveer)
+[![Job](https://img.shields.io/badge/👀-Looking%20for%20job-814ad4?style=for-the-badge "Job")](https://www.linkedin.com/in/oliwer-pawelski/)
 [![More links](https://img.shields.io/badge/🌐-See%20more-038cfc?style=for-the-badge "More links")](https://guliveer.github.io/links)
 
 
