@@ -8,11 +8,11 @@
 
 ## ⚙️ Stack
 
-[![HTML 5](https://img.shields.io/badge/&#8205;-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
-[![CSS 3](https://img.shields.io/badge/&#8205;-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
-[![JavaScript](https://img.shields.io/badge/&#8205;-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://en.wikipedia.org/wiki/JavaScript)
-[![PHP](https://img.shields.io/badge/&#8205;-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
-[![MySQL](https://img.shields.io/badge/&#8205;-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
+[![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray)](https://en.wikipedia.org/wiki/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://en.wikipedia.org/wiki/PHP)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
 
 
 ## 🖥️ Software I know
@@ -24,6 +24,7 @@
 [![Microsoft Excel](https://img.shields.io/badge/Excel-Microsoft-gray?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346)](https://microsoft.com/microsoft-365/excel)
 [![JetBrains PhpStorm](https://img.shields.io/badge/PhpStorm-JetBrains-gray?style=for-the-badge&logo=phpstorm&logoColor=white&labelColor=6051e4)](https://www.jetbrains.com/phpstorm/)
 [![JetBrains CLion](https://img.shields.io/badge/CLion-JetBrains-gray?style=for-the-badge&logo=clion&logoColor=white&labelColor=59b8a2)](https://www.jetbrains.com/clion/)
+[![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/)
 
 
 ## 📊 Stats
