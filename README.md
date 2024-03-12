@@ -22,6 +22,8 @@
 [![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-Adobe-gray?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white&labelColor=9999FF)](https://adobe.com/products/premiere.html)
 [![Adobe After Effects](https://img.shields.io/badge/After%20Effects-Adobe-gray?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=9999FF)](https://adobe.com/products/aftereffects.html)
 [![Microsoft Excel](https://img.shields.io/badge/Excel-Microsoft-gray?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346)](https://microsoft.com/microsoft-365/excel)
+[![JetBrains PhpStorm](https://img.shields.io/badge/PhpStorm-JetBrains-gray?style=for-the-badge&logo=phpstorm&logoColor=white&labelColor=6051e4)](https://www.jetbrains.com/phpstorm/)
+[![JetBrains CLion](https://img.shields.io/badge/CLion-JetBrains-gray?style=for-the-badge&logo=clion&logoColor=white&labelColor=59b8a2)](https://www.jetbrains.com/clion/)
 
 
 ## 📊 Stats
