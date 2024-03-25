@@ -15,7 +15,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
 
 
-## 🖥️ Software I know
+## 🖥️ Software I often use
 
 [![Adobe Photoshop](https://img.shields.io/badge/Photoshop-Adobe-gray?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF)](https://adobe.com/products/photoshop.html)
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-Adobe-gray?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=FF9A00)](https://adobe.com/products/illustrator.html)
