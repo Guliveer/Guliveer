@@ -1,9 +1,12 @@
 # Hi 👋<br/>I'm Oliwer!
 
-[![Birthday](https://img.shields.io/badge/🎂-V%202003-red?style=for-the-badge "Birthday")](https://github.com/Guliveer)
+[![Profile Views](https://komarev.com/ghpvc/?username=Guliveer&label=Profile+Views&color=cf2b67&style=for-the-badge&abbreviated=true)](https://github.com/Guliveer)
+[![Birthday](https://img.shields.io/badge/🎂-V%202003-FF3E00?style=for-the-badge "Birthday")](https://github.com/Guliveer)
 [![Home](https://img.shields.io/badge/🏠-Zielona%20Góra-45ad2d?style=for-the-badge "Home")](https://github.com/Guliveer)
 [![Job](https://img.shields.io/badge/👀-Looking%20for%20job-814ad4?style=for-the-badge "Job")](https://www.linkedin.com/in/oliwer-pawelski/)
 [![More links](https://img.shields.io/badge/🌐-See%20more-038cfc?style=for-the-badge "More links")](https://guliveer.github.io/links)
+
+<hr>
 
 
 ## ⚙️ Technology Stack
@@ -33,7 +36,6 @@
 
 
 ## 📊 Stats
-
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Guliveer)](https://github.com/Guliveer)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guliveer&theme=radical&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Guliveer)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guliveer&theme=radical&hide_title=false&hide_border=true&langs_count=10)](https://github.com/Guliveer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guliveer&theme=radical&hide_title=false&hide_border=true&langs_count=10&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Guliveer)
