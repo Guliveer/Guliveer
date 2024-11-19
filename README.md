@@ -43,10 +43,10 @@ Here are the technologies I use and love working with:
 
 - **Learning Swift**:  
   Diving into **Swift programming** to expand my skill set.
-  - **MacOS Caltulator clone**
+  - **MacOS Caltulator clone**  
     Simple calculator written in Swift, that is supposed to look like built-in Apple's
     ![Project Status](https://img.shields.io/badge/Status-In%20Development-blue?style=flat-square)
-  - **Tic-Tac-Toe**
+  - **Tic-Tac-Toe**  
     A game where you have to place the same 3 symbols in a line. Made in Swift (console game) and in Java (graphic)
     ![Project Status](https://img.shields.io/badge/Status-In%20Development-blue?style=flat-square)
 
