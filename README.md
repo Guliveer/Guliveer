@@ -9,6 +9,9 @@ Welcome to my GitHub profile, where I showcase my projects, skills, and journey 
 [![Social Media](https://img.shields.io/badge/🌐-Social%20Links-038cfc?style=for-the-badge "Social Links")](https://guliveer.github.io/links)  
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Guliveer&label=Profile+Views&color=cf2b67&style=for-the-badge&abbreviated=true)](https://github.com/Guliveer)
+![GitHub User's stars](https://img.shields.io/github/stars/Guliveer?style=for-the-badge&color=DC9D00)
+![GitHub followers](https://img.shields.io/github/followers/Guliveer?style=for-the-badge&color=7D8471)
+
 
 ## 🌟 About Me
 
