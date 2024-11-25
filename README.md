@@ -27,11 +27,11 @@ Here are the technologies I use and love working with:
 | Frontend                                                                                                        | Backend                                                                                                   | Programming Languages                                                                              |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)             | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)          | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)   |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)                 | ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)      |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)                 | ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)`*`      |
 | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)                    | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)`*`     | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)`*` |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |                                                                                                           |                                                                                                    |
 
-`*` - _Currently learning and expanding my knowledge in these fields._
+`*` - _Currently learning and/or expanding my knowledge in these fields._
 
 ## 🖥️ Tools I Frequently Use
 
