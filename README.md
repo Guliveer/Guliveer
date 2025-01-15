@@ -47,9 +47,6 @@ Here are the technologies I use and love working with:
 
 - **Learning Swift**:  
   Diving into **Swift programming** to expand my skill set.
-  - **MacOS Caltulator clone**  
-    Simple calculator written in Swift, that is supposed to look like built-in Apple's  
-    ![Project Status](https://img.shields.io/badge/Status-In%20Development-blue?style=flat-square)
 
 ## 📊 My GitHub Stats
 
