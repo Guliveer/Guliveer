@@ -39,20 +39,11 @@ Here are the technologies I use and love working with:
 - **Adobe Suite:** Photoshop, Illustrator, After Effects and Premiere Pro for creative projects.
 - **GitKraken** for version control and team collaboration.
 
-## 🔥 Current Projects
-
-- **Song-request**:  
-  A music queue system based on voting, built with **Svelte**, **MySQL**, and **Keycloak**.  
-  ![Project Status](https://img.shields.io/badge/Status-In%20Development-blue?style=flat-square)
-
-- **Learning Swift**:  
-  Diving into **Swift programming** to expand my skill set.
-
 ## 📊 My GitHub Stats
 
 <!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=Guliveer&theme=radical&row=1&margin-w=15)](https://github.com/Guliveer)   -->
-
+<!--
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guliveer&theme=one_dark_pro&bg_color=00000000&hide_border=true&rank_icon=percentile&show_icons=true&count_private=true)](https://github.com/Guliveer)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guliveer&theme=one_dark_pro&bg_color=00000000&hide_border=true&langs_count=12&layout=donut-vertical)](https://github.com/Guliveer)
-
+-->
 ![Metrics](./github-metrics.svg)
