@@ -15,7 +15,7 @@ Welcome to my GitHub profile, where I showcase my projects, skills, and journey 
 ## 🌟 About Me
 
 - 🎓 **4th Semester Computer Science student** at the **University of Zielona Góra**.
-- 🔍 Currently building **Song-request** – a voting-based song queue system using **Svelte**, **MySQL**, and **Keycloak**.
+- 🔍 Currently building **Song-request** – a voting-based song queue system using **Next.js** and **PostgreSQL**.
 - 💡 Enthusiast of **backend development**, always eager to learn new tools and technologies like **Swift**.
 - 🎯 My goal: To become a **professional programmer** and contribute to impactful projects.
 
