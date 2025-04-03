@@ -50,6 +50,7 @@ Here are some of my technologies. Some of them I already know, and some I'm stil
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat)
 ![Swift Badge](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat)
 
 ## 🖥️ Tools I Frequently Use
