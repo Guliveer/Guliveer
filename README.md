@@ -16,7 +16,6 @@ I'm Oliwer, a passionate **Computer Science student** and aspiring **software de
 ## 🌟 About Me
 
 - 🎓 **Student of the 4th semester of Computer Science** at the **University of Zielona Góra**.
-- 🔍 Currently building **Track Drop** - a voting-based track queuing system using **Next.js** and **PostgreSQL**.
 - 💡 Enthusiast of **programming** and **development**, always eager to learn new tools and technologies, such as **Swift** or **C#**.
 - 🎯 My goal: To become a **professional programmer** and contribute to impactful and important projects.
 
@@ -40,6 +39,7 @@ Here are some of my technologies. Some of them I already know, and some I'm stil
 ![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat)
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
@@ -49,8 +49,6 @@ Here are some of my technologies. Some of them I already know, and some I'm stil
 
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
 ![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Svelte Badge](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat)
 ![Swift Badge](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat)
 
 ## 🖥️ Tools I Frequently Use
