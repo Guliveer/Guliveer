@@ -6,7 +6,7 @@ I'm Oliwer, a passionate **Computer Science student** and aspiring **software de
 
 [![Birthday](https://img.shields.io/badge/🎂-May%202003-FF3E00?style=for-the-badge "Birthday")](https://github.com/Guliveer)
 [![Home](https://img.shields.io/badge/🏠-Zielona%20Góra-45ad2d?style=for-the-badge "Home")](https://en.wikipedia.org/wiki/Zielona_Góra)
-[![Job](https://img.shields.io/badge/👀-Looking%20for%20a%20job-814ad4?style=for-the-badge "Job Status")](https://www.linkedin.com/in/oliwer-pawelski/)
+[![Job](https://img.shields.io/badge/🏢-Software%20Engineer%20Intern%20@%20Auctane-814ad4?style=for-the-badge "Job Status")](https://www.linkedin.com/in/oliwer-pawelski/)
 [![Social Media](https://img.shields.io/badge/🌐-Social%20Links-038cfc?style=for-the-badge "Social Links")](https://guliveer.github.io/links)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Guliveer&label=Profile+Views&color=cf2b67&style=for-the-badge&abbreviated=true)](https://github.com/Guliveer)
