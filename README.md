@@ -68,7 +68,7 @@ Here are some of my technologies. Some of them I already know, and some I'm stil
 > **Slack** for team communication.
 
 > ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)  
-> **GitHub**for hosting code, managing projects, and collaborating with others.
+> **GitHub** for hosting code, managing projects, and collaborating with others.
 
 ## 📊 My GitHub Stats
 
