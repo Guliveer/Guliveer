@@ -6,7 +6,7 @@ I'm Oliwer, a passionate **Computer Science student** and aspiring **software de
 
 [![Birthday](https://img.shields.io/badge/🎂-May%202003-FF3E00?style=for-the-badge "Birthday")](https://github.com/Guliveer)
 [![Home](https://img.shields.io/badge/🏠-Zielona%20Góra-45ad2d?style=for-the-badge "Home")](https://en.wikipedia.org/wiki/Zielona_Góra)
-[![Job](https://img.shields.io/badge/🏢-Software%20Engineer%20Intern%20@%20Auctane-814ad4?style=for-the-badge "Job Status")](https://www.linkedin.com/in/oliwer-pawelski/)
+[![Job](https://img.shields.io/badge/🏢-Auctane-814ad4?style=for-the-badge "Job Status")](https://www.linkedin.com/in/oliwer-pawelski/)
 [![Social Media](https://img.shields.io/badge/🌐-Social%20Links-038cfc?style=for-the-badge "Social Links")](https://guliveer.github.io/links)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Guliveer&label=Profile+Views&color=cf2b67&style=for-the-badge&abbreviated=true)](https://github.com/Guliveer)
@@ -26,9 +26,9 @@ Here are some of my technologies. Some of them I already know, and some I'm stil
 ### 🧠 Known
 
 ![Astro Badge](https://img.shields.io/badge/Astro-2C2052?logo=astro&logoColor=fff&style=flat)
+![Bash Badge](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat)
-![Bash Badge](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -41,7 +41,9 @@ Here are some of my technologies. Some of them I already know, and some I'm stil
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Sanity Badge](https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=fff&style=flat)
 ![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=flat)
 
@@ -57,13 +59,13 @@ Here are some of my technologies. Some of them I already know, and some I'm stil
 > **JetBrains IDEs:** IntelliJ IDEA, CLion, WebStorm, PyCharm and more for efficient coding.
 
 > ![GitKraken Badge](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=flat)  
-> **GitKraken** for version control and team collaboration.
+> **GitKraken** - a visual and intuitive Git client I use for version control.
 
 > ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat)  
 > **Slack** for team communication.
 
 > ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)  
-> **GitHub Projects** for project management and organization.
+> **GitHub**for hosting code, managing projects, and collaborating with others.
 
 ## 📊 My GitHub Stats
 
