@@ -15,7 +15,7 @@ I'm Oliwer, a passionate **Computer Science student** and aspiring **software de
 
 ## 🌟 About Me
 
-- 🎓 **Student of the 5th semester of Computer Science** at the **University of Zielona Góra**.
+- 🎓 **Student of the 6th semester of Computer Science** at the **University of Zielona Góra**.
 - 💡 Enthusiast of **programming** and **development**, always eager to learn new tools and technologies, such as **Swift** or **C#**.
 - 🎯 My goal: To become a **professional programmer** and contribute to impactful and important projects.
 
