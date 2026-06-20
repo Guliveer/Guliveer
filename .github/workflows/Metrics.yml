@@ -12,17 +12,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@3.34.0
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+          retries: 3
+          retries_delay: 300
 
           # Options
           user: Guliveer
@@ -41,7 +35,7 @@ jobs:
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 100
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
           plugin_lines: yes

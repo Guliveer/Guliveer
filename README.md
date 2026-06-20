@@ -72,6 +72,54 @@ Here are some of my technologies. Some of them I already know, and some I'm stil
 > ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)  
 > **GitHub** for hosting code, managing projects, and collaborating with others.
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Guliveer/twitch-miner-go">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=twitch-miner-go&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Guliveer/cv">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=cv&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Guliveer/RFID-access-manager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=RFID-access-manager&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Guliveer/r6-stats-extension">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=r6-stats-extension&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Guliveer/UZ">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=UZ&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Guliveer/r">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=r&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Guliveer/windows-context-git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=windows-context-git&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 📊 My GitHub Stats
 
 <!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=Guliveer&theme=radical&row=1&margin-w=15)](https://github.com/Guliveer)   -->
