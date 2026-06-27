@@ -1,0 +1,18 @@
+# Claude Code
+.remember/
+.omc/
+.claude/
+
+# Secrets and local overrides — never commit
+.env
+.env.*
+!.env.example
+*.local
+*.local.*
+!*.example
+!*.example.*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
