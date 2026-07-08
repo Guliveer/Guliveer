@@ -78,43 +78,43 @@ Here are some of my technologies. Some of them I already know, and some I'm stil
   <tr>
     <td align="center">
       <a href="https://github.com/Guliveer/twitch-miner-go">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=twitch-miner-go&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=twitch-miner-go&theme=dark&bg_color=00000000&hide_border=true" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Guliveer/cv">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=cv&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=cv&theme=dark&bg_color=00000000&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/Guliveer/RFID-access-manager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=RFID-access-manager&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=RFID-access-manager&theme=dark&bg_color=00000000&hide_border=true" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Guliveer/r6-stats-extension">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=r6-stats-extension&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=r6-stats-extension&theme=dark&bg_color=00000000&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/Guliveer/UZ">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=UZ&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=UZ&theme=dark&bg_color=00000000&hide_border=true" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Guliveer/r">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=r&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=r&theme=dark&bg_color=00000000&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/Guliveer/windows-context-git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Guliveer&repo=windows-context-git&theme=one_dark_pro&bg_color=00000000&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=windows-context-git&theme=dark&bg_color=00000000&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -124,8 +124,8 @@ Here are some of my technologies. Some of them I already know, and some I'm stil
 
 <!-- [![Trophies](https://github-profile-trophy.vercel.app/?username=Guliveer&theme=radical&row=1&margin-w=15)](https://github.com/Guliveer)   -->
 <!--
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guliveer&theme=one_dark_pro&bg_color=00000000&hide_border=true&rank_icon=percentile&show_icons=true&count_private=true)](https://github.com/Guliveer)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guliveer&theme=one_dark_pro&bg_color=00000000&hide_border=true&langs_count=12&layout=donut-vertical)](https://github.com/Guliveer)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Guliveer&theme=dark&bg_color=00000000&hide_border=true&rank_icon=percentile&show_icons=true&count_private=true)](https://github.com/Guliveer)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Guliveer&theme=dark&bg_color=00000000&hide_border=true&langs_count=12&layout=donut-vertical)](https://github.com/Guliveer)
 -->
 
 ![Metrics](./github-metrics.svg)

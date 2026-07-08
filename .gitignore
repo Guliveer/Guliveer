@@ -2,6 +2,7 @@
 .remember/
 .omc/
 .claude/
+.omo/
 
 # Secrets and local overrides — never commit
 .env
