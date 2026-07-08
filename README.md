@@ -74,45 +74,45 @@ Here are some of my technologies. Some of them I already know, and some I'm stil
 
 ## 🚀 Featured Projects
 
-<table rules="none" style="border: none; border-collapse: collapse;">
-  <tr style="border: none; background: none;">
-    <td style="border: none; background: none;" align="center">
+<table>
+  <tr>
+    <td align="center">
       <a href="https://github.com/Guliveer/twitch-miner-go">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=twitch-miner-go&theme=dark&hide_border=true" />
       </a>
     </td>
-    <td style="border: none; background: none;" align="center">
+    <td align="center">
       <a href="https://github.com/Guliveer/cv">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=cv&theme=dark&hide_border=true" />
       </a>
     </td>
   </tr>
-  <tr style="border: none; background: none;">
-    <td style="border: none; background: none;" align="center">
+  <tr>
+    <td align="center">
       <a href="https://github.com/Guliveer/RFID-access-manager">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=RFID-access-manager&theme=dark&hide_border=true" />
       </a>
     </td>
-    <td style="border: none; background: none;" align="center">
+    <td align="center">
       <a href="https://github.com/Guliveer/r6-stats-extension">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=r6-stats-extension&theme=dark&hide_border=true" />
       </a>
     </td>
   </tr>
-  <tr style="border: none; background: none;">
-    <td style="border: none; background: none;" align="center">
+  <tr>
+    <td align="center">
       <a href="https://github.com/Guliveer/UZ">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=UZ&theme=dark&hide_border=true" />
       </a>
     </td>
-    <td style="border: none; background: none;" align="center">
+    <td align="center">
       <a href="https://github.com/Guliveer/r">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=r&theme=dark&hide_border=true" />
       </a>
     </td>
   </tr>
-  <tr style="border: none; background: none;">
-    <td style="border: none; background: none;" align="center">
+  <tr>
+    <td align="center">
       <a href="https://github.com/Guliveer/windows-context-git">
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=Guliveer&repo=windows-context-git&theme=dark&hide_border=true" />
       </a>
